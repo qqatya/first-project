@@ -4,6 +4,6 @@ public class Clown {
     }
 
     void clownMoment() {
-        System.out.println("You are such a clown");
+        System.out.println("You are such a clown...");
     }
 }
